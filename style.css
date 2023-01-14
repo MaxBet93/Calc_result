@@ -12,7 +12,7 @@ body{
   width: 600px;
   border: solid 2px #555;
   border-radius: 10px;
-  background-color: #888;
+  background-color: rgb(72, 71, 71);
   padding: 20px;
 
   display: grid;
@@ -43,14 +43,14 @@ body{
   box-shadow: 1px 1px 2px #000;
 }
 .calc_btn_operation{
-  background-color: #0898;
+  background-color: rgb(4, 200, 245);
 }
 .calc_btn_reset{
-  background-color: #ff1158;
+  background-color: #fb0505;
   color: #fff;
 }
 .calc_btn_result{
   grid-column: 2/-1;
-  background-color: blue;
+  background-color: rgb(10, 82, 237);
   color: #fff;
 }
